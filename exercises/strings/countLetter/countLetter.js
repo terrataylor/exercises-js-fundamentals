@@ -24,7 +24,7 @@
 function countLetter(string, letter) {
   let array =[];
   for (l of string) {
-    if(letter === l){ /// 
+    if(letter === l){ /// test test test
        array.push(l);
     } 
   }
