@@ -14,7 +14,7 @@
  * @return {string} The corresponding letter grade for the given percentage grade
  */
 function letterGrade(percentGrade) {
-  // This is your job. :)
+  // This is your job. :D
 }
 
 if (require.main === module) {
